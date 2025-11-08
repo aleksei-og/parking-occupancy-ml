@@ -1,0 +1,8 @@
+model_path: "C:\\Users\\kalmy\\Documents\\Machine learning\\bmodel3_complete.pth"
+model_type: 0
+video_input: "input.mp4"
+video_output: "output_video3.mp4"
+json_annotations: "predictions_coco3.json"
+frame_step: 25
+confidence_threshold: 0.8
+box_alpha: 0.3
